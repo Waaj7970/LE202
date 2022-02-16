@@ -26,6 +26,14 @@ port USB
 
    https://www.microchip.com/en-us/product/ATMEGA1608
 
-# ชื่อ 
+# ชื่อ ATME32U4
+
+ราคา205บาท
+ขนาดความจำ 32KB
+ความเร็ว 16 MHz
+port USB mini
+ลิ้งข้อมูล https://th.rs-online.com/web/p/microcontrollers/1310289p?cm_mmc=TH-PPC-DS3A-_-google-_-3_TH_EN_Semiconductors_Microcontrollers_Phrase-_-Microchip+-+1310289P+-+ATMEGA32U4-AU-_-atmega32u4+au&matchtype=p&kwd-301923833485&gclid=Cj0KCQiAu62QBhC7ARIsALXijXTtDF6Y1EpWgN4MNMy7-axbvkvu1QyW1wq4lDzx5RpZCWdCguuig0caAh6QEALw_wcB&gclsrc=aw.ds
+
+# 
 
 
